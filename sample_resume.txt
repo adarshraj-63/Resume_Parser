@@ -1,0 +1,27 @@
+Rahul Kumar
+rahul.kumar@gmail.com | +91 98765 43210
+github.com/rahulk | linkedin.com/in/rahulk
+
+Summary
+Final year computer science student who builds machine learning and web applications. Passionate about solving real problems with Python and data.
+
+Skills
+Python, Java, JavaScript, React, Node.js, MongoDB, Docker, Git, NLP, scikit-learn
+
+Experience
+Software Intern, Infosys, Bangalore
+Jun 2023 - Aug 2023
+Developed REST API using Node.js and Express.
+ML Intern, TCS
+Jan 2024 - Present
+
+Education
+B.Tech Computer Science, NIT Patna, 2021 - 2025, CGPA: 8.4
+12th, CBSE, 2021, 91%
+
+Projects
+- Loan approval prediction using machine learning
+- MERN stack e-commerce app with JWT authentication
+
+Certifications
+- AWS Cloud Practitioner

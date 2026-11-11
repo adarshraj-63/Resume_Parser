@@ -1,0 +1,1 @@
+We are hiring a Full Stack Developer. Required skills: Python, JavaScript, React, Node.js, MongoDB, REST API, Docker, Kubernetes, Git and AWS. Knowledge of machine learning and NLP is a plus.

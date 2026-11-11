@@ -1,0 +1,7 @@
+{
+  "languages": ["python", "java", "javascript", "typescript", "c++", "c#", "sql", "r", "go", "php", "kotlin"],
+  "web": ["html", "css", "react", "angular", "vue", "node.js", "express", "django", "flask", "fastapi", "mongodb", "mysql", "postgresql", "rest api", "jwt", "tailwind", "bootstrap"],
+  "ml_ai": ["machine learning", "deep learning", "nlp", "computer vision", "tensorflow", "pytorch", "scikit-learn", "pandas", "numpy", "opencv", "yolo", "federated learning", "nltk", "spacy"],
+  "tools": ["git", "github", "docker", "kubernetes", "aws", "azure", "linux", "postman", "jira", "ci/cd", "streamlit"],
+  "cs_core": ["data structures", "algorithms", "oop", "dbms", "operating systems", "computer networks"]
+}
